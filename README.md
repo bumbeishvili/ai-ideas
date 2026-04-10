@@ -4,3 +4,4 @@
 2. Ability to allow AI to mark images so that it's easier for interactive tutorials
 3. LLM based personal workout plan, payment based on lost weight
 4. LLMArena but for data visualizations, compare how multiple models tackle with a single, complete, dataviz task
+5. Drag drop powerbi dashboard to create better visual 
